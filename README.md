@@ -14,11 +14,9 @@ It shows real-time weather data based on the city entered by the user.
 
 ![Weather App Screenshot](images/preview.png)
 
-> *(You can replace the image URL above with your own screenshot link once deployed)*
-
 ## 🚀 Demo
 
-👉 [Live Demo on GitHub Pages](https://your-username.github.io/weather-app/)
+👉 [Live Demo on GitHub Pages](https://chiradeep98.github.io/Weather-App/)
 
 ## 🛠️ Technologies Used
 
@@ -31,8 +29,7 @@ It shows real-time weather data based on the city entered by the user.
 ## 🧪 How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/chiradeep98/Weather-App.git
 
 
 
