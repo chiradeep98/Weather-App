@@ -10,9 +10,9 @@ It shows real-time weather data based on the city entered by the user.
 - 🌧️ Dynamic weather icons
 - 📱 Responsive design
 
-![screenshot](images/preview.png)
+## 📸 Screenshot
 
-![Weather App Screenshot](https://via.placeholder.com/800x400.png?text=Weather+App+Screenshot)
+![Weather App Screenshot](images/preview.png)
 
 > *(You can replace the image URL above with your own screenshot link once deployed)*
 
