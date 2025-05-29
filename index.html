@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+    
+</head>
+
+<body>
+    <!-- <input id="city-input" type="text" placeholder="Enter City Name">
+    <button id="search-button">Search</button>
+    <h1 id="city-name"></h1>
+    <p id="city-time"></p>
+    <p id="city-temp"></p> -->
+
+    <div class="weather-container">
+        <div class="weather-card glass">
+            <div class="location">
+                <i class="fas fa-map-marker-alt"></i>
+                <span id="city">Location</span>
+            </div>
+            <div class="weather">
+                <img src="images/sunny.png"
+                    alt="weather-icon" id="icon">
+                <h1 id="temp">Temperature</h1>
+                <p id="description">Weather</p>
+            </div>
+            <div class="details">
+                <div>
+                    <i class="fas fa-tint"></i>
+                    <span id="humidity">Humidity</span>
+                </div>
+                <div>
+                    <i class="fas fa-wind"></i>
+                    <span id="windSpeed" class="wind">Wind</span>
+                </div>
+            </div>
+            <div class="search-box">
+                <input type="text" placeholder="Search City..." id="searchInput">
+                <button id="searchBtn"><i class="fas fa-search"></i></button>
+            </div>
+        </div>
+    </div>
+    <script src="function.js"></script>
+</body>
+
+</html>
